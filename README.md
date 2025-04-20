@@ -1,4 +1,4 @@
-# Tema Node.js - Contact Manager
+# tema — CLI application
 
 ## 📋 1. Afișarea listei de contacte
 
