@@ -2,7 +2,7 @@
 
 ## 📋 1. Afișarea listei de contacte
 
-![List](https://ibb.co/twfsD0B3)
+![List](https://i.ibb.co/twfsD0B3/list-png.png)
 
 ## 🔍 2. Afișarea unui contact după ID
 
