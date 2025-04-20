@@ -2,16 +2,24 @@
 
 ## 📋 1. Afișarea listei de contacte
 
-<img src="https://i.ibb.co/twfsD0B3/list-png.png" width="100%" />
+<a href="https://ibb.co/twfsD0B3">
+  <img src="https://i.ibb.co/twfsD0B3/list-png.png" alt="list-png" border="0" width="100%" />
+</a>
 
 ## 🔍 2. Obținerea unui contact după ID
 
-<img src="https://i.ibb.co/Rpfq7MkJ/get-png.png" width="100%" />
+<a href="https://ibb.co/Rpfq7MkJ">
+  <img src="https://i.ibb.co/Rpfq7MkJ/get-png.png" alt="get-png" border="0" width="100%" />
+</a>
 
 ## ➕ 3. Adăugarea unui contact
 
-<img src="https://i.ibb.co/NnWGSYqB/add-png.png" width="100%" />
+<a href="https://ibb.co/NnWGSYqB">
+  <img src="https://i.ibb.co/NnWGSYqB/add-png.png" alt="add-png" border="0" width="100%" />
+</a>
 
 ## 🗑️ 4. Ștergerea unui contact
 
-<img src="https://i.ibb.co/C3718kqH/remove-png.png" width="100%" />
+<a href="https://ibb.co/C3718kqH">
+  <img src="https://i.ibb.co/C3718kqH/remove-png.png" alt="remove-png" border="0" width="100%" />
+</a>
